@@ -1,0 +1,6 @@
+myHostname = "localhost"
+myUsername = "biomall"
+myPassword = "abcdefgh"
+synonymPath = "D:\\Bioyogi\\bioyogi-es\\synonym.txt"
+elasticIp = "127.0.0.1"
+elasticPort = "9200"
